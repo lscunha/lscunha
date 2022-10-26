@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lucas Cunha
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Python, java and javascrit
+- 🌱 I’m currently learning Python, Java and Javascript
 - 💞️ I’m looking to collaborate on projets to Improve my carrier and nice people in corporate world.
 - 📫 How to reach me in my linkedin profile or e-mail:
 - https://linkedin.com/in/lucas-santos-cunha
